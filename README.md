@@ -1,2 +1,0 @@
-# SensuInstall
-Installing Sensu
